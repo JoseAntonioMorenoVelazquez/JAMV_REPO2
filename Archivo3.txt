@@ -1,3 +1,7 @@
 Soy el fichero 3
+<<<<<<< HEAD
 Ampliamos el contenido del archivo 3 agregando este texto
 Soy el fichero 3 local
+=======
+Soy el fichero 3 remoto
+>>>>>>> c0a8c0e15d604329cf8559304e6919176e1c91e8
